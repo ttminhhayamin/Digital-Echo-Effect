@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# File âm thanh sinh ra bởi demo_cli.py (tạo lại bằng: python demo_cli.py --no-play)
+output/
+
+# Hệ điều hành / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Secrets / local configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.log
+.pytest_cache/
+*.egg-info/
