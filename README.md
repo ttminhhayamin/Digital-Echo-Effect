@@ -114,4 +114,4 @@ Python · NumPy · SciPy · Matplotlib · Streamlit
 
 ## 👤 Tác giả
 
-[Họ tên sinh viên] · [MSSV] · Môn DGT302 – Xử lý tín hiệu số
+Trần Tuấn Minh · Phạm Đặng Khánh Duy - Nguyễn Duy An
